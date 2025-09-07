@@ -69,7 +69,9 @@ Dataset Annotation: Roboflow
 ## 👨‍💻 Author
 
 Muhammad Ikhwan Syafiq Bin Norsham
+
 Bachelor of Electronic Technology Engineering (Hons)
+
 Universiti Kuala Lumpur, British Malaysian Institute
 
 ## 📧 Email: ikhwan.norsham@s.unikl.edu.my / ikhwansyafiq00@gmail.com
